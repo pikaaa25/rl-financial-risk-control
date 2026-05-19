@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+plotly
+torch
+torchvision
+streamlit
+gym
+scikit-learn
+scipy
+stable-baselines3
+yfinance
